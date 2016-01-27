@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-### More Information
+### About
 
 I am a partially starving Computer Science student at the University of Texas at Austin.
+
+### More Information
+
+I don't like stalkers.
 
 ### Contact me
 
