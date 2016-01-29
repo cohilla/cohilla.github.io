@@ -12,4 +12,4 @@ I don't like stalkers.
 
 ### Contact me
 
-[cody.hill@utexas.edu](mailto:cody.hill@utexas.edu)
+[Email me](mailto:cody.hill@utexas.edu)
