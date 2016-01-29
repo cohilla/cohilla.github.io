@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About
-
 I am a partially starving Computer Science student at the University of Texas at Austin.
 
 ### More Information
