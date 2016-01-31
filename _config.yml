@@ -9,7 +9,7 @@ name: CS371p Spring 2016 Cody Hill
 description: Diving deeper into Object Oriented Programming
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.cs.utexas.edu/~ans/classes/cs439/pics/cody.jpg
+avatar: ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 #
 # Flags below are optional
 #
